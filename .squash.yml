@@ -1,0 +1,4 @@
+deployments:
+  default:
+    ready_wait: 20
+    port_forwarding: 3030:3030
