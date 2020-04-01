@@ -1,0 +1,3 @@
+deployments:
+  default:
+    ready_wait: 20
